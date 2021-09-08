@@ -1,12 +1,18 @@
-# Hi, I'm Indra Arianggi S 👋
+# Hi, I'm Indra Arianggi S :wave:
 
-I'm a Frontend Developer from Indonesia :indonesia: , who currently focuses on React using TypeScript.
+I'm a Software Engineer, Frontend Developer from Indonesia :indonesia: , who currently focuses on React using TypeScript.
 
-##### GitHub Profile Stats
+#### GitHub Profile Stats
 
-<section>
-    <img styles="margin-bottom: 1rem;" height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=indraarianggi&count_private=true&hide=issues,contribs&layout=compact&theme=buefy&show_icons=true&custom_title=Indra Arianggi's GitHub Stats" alt="Indra Arianggi's GitHub Stats" />
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraarianggi&langs_count=4&hide=php,java&layout=compact&theme=buefy" />
+<table width="100%">
+  <tr>
+    <td>
+      <img styles="margin-bottom: 1rem;" height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=indraarianggi&count_private=true&hide=issues,contribs&layout=compact&theme=buefy&hide_border=true&show_icons=true&custom_title=Indra Arianggi's GitHub Stats" alt="Indra Arianggi's GitHub Stats" />
+    </td>
+    <td>
+      <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraarianggi&langs_count=4&hide=php,java&layout=compact&theme=buefy&hide_border=true" />
+    </td>
+  </tr>
 </table>
 
 <!--
