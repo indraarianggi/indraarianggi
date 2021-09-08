@@ -1,6 +1,6 @@
 # Hi, I'm Indra Arianggi S :wave:
 
-I'm a Software Engineer, Frontend Developer from Indonesia :indonesia: , who currently focuses on React using TypeScript.
+I'm a Software Engineer, Frontend from Indonesia :indonesia: , who currently focuses on React using TypeScript.
 
 #### GitHub Profile Stats
 
