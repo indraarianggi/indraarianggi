@@ -2,6 +2,7 @@
 
 I'm a Software Engineer, Frontend from Indonesia :indonesia: , who currently focus on React using TypeScript.
 
+<!--
 #### GitHub Profile Stats
 
 <table width="100%">
@@ -15,7 +16,6 @@ I'm a Software Engineer, Frontend from Indonesia :indonesia: , who currently foc
   </tr>
 </table>
 
-<!--
 **indraarianggi/indraarianggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
